@@ -26,7 +26,7 @@
 11. Chatbot will not terminate until programmer/user end this chat.
 
 # BLOCK DIAGRAM OF THE CHATBOT.
-
+![alt text](https://github.com/suneelkumar9989/ML/blob/main/blockdiagram.png?raw=true)
 # DEMO VIDEO OF THE CHATBOT.
 https://www.youtube.com/watch?v=eisEYtKoo34&feature=youtu.be
 
