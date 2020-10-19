@@ -12,5 +12,5 @@
 3. Bot will ask the person/user what to do, it will offer a choice of things based upon the bot design.
 4. It will respond to user to give input correctly.
 
-** WORKING OF THE CHATBOT **
+**WORKING OF THE CHATBOT**
 
